@@ -1,0 +1,12 @@
+!
+! Title: AdGuard DNS filter for Google Ads (Allow)
+! Description: List composed of Google Ad filter for allowing
+! Version: 0.1
+! Last modified: 2025-02-01T10:30:00.000Z
+!
+! Compiled by @sysvar
+!
+||googleadservices.com^
+||ad.doubleclick.net^
+||pagead2.googlesyndication.com^
+||adservice.google.com^
